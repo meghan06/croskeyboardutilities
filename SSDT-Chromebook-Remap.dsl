@@ -16,7 +16,7 @@ DefinitionBlock ("", "SSDT", 2, "cbOSX", "croskb", 0)
                 "41=71",    // F7 to display brightness up
                 "42=4a",    // F8 to mute
                 "43=49",    // F9 to volume down
-                "44=48",    // F9 to volume up
+                "44=48",    // F10 to volume up
             },
         },
     })
